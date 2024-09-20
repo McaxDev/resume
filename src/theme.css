@@ -1,0 +1,6 @@
+:root {
+	--main: var(--bs-primary);
+	--light: var(--bs-primary-bg-subtle);
+	--deep: var(--bs-primary-text-emphasis);
+	--subtle: var(--bs-primary-border-subtle);
+}
